@@ -13,6 +13,7 @@ Summary of tools for automatically finding or creating notes in personal knowled
 * Finding similar notes
   * Roam unlinked note finder [plugin](https://roamjs.com/extensions/unlink-finder)
   * [macedotavares/python-text-similarity](https://github.com/macedotavares/python-text-similarity): Obsidian similar notes plugin ([forum discussion](https://forum.obsidian.md/t/find-similar-notes-python-script/9450))
+  * [taivop/obsidian-related](https://github.com/taivop/obsidian-related): my work-in-progress related notes plugin
 * Auto-extracting graphs
   * [erikrichardlarson's gist](https://gist.github.com/erikrichardlarson/a75c2d7a376733af79ab4dfd5789f670): proof-of-concept for automatic NER from text
   * [hmprt/RoamNER](https://github.com/hmprt/RoamNER) and follow-up project [RoamNERd](https://github.com/kylestratis/RoamNERd): automatic NER integration for Roam
